@@ -87,7 +87,7 @@ public class CategorieControllerTest {
         verify(categorieService, times(1)).getCategorie(anyLong());
     }
 
-//    @Testaaaaaa
+//    @Testaaaaaapppp
 //    void testDeleteCategorie() throws Exception {
 //        long categorieId = 1L;
 //        doNothing().when(categorieService).deleteCategorie(categorieId);
